@@ -1,0 +1,9 @@
+[submodule "electricity-consommation-dashboard"]
+	path = electricity-consommation-dashboard
+	url = https://github.com/emboussi/electricity-consommation-dashboard.git
+[submodule "export-shelly"]
+	path = export-shelly
+	url = https://github.com/emboussi/export-shelly.git
+[submodule "HYDRO500_MOTEUR_CERTIFIE"]
+	path = HYDRO500_MOTEUR_CERTIFIE
+	url = https://github.com/emboussi/HYDRO500_MOTEUR_CERTIFIE.git
